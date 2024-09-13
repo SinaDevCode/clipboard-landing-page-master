@@ -6,8 +6,8 @@
 ![Design preview for the Clipboard landing page master coding challenge](./design/desktop-preview.jpg)
 
 ### Links
-- Solution URL: [Repository]()
-- Live Site URL: [Demo]()
+- Solution URL: [Repository](https://github.com/SinaDevCode/clipboard-landing-page-master)
+- Live Site URL: [Demo](https://sinadevcode.github.io/clipboard-landing-page-master/)
 
 ## Author
 - Frontend Mentor - [@SinaDevCode](https://www.frontendmentor.io/profile/SinaDevCode)
